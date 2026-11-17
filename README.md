@@ -222,13 +222,12 @@ The agent coordinates the investigation process and uses tools to retrieve and a
 | Technology | Purpose |
 |---|---|
 | Python | Core programming language |
-| LangChain | AI agent orchestration |
+| Crew Ai | AI agent orchestration |
 | LLM Provider | Investigation reasoning and explanations |
 | Pandas | Log processing and analysis |
 | NumPy | Numerical operations |
 | Scikit-learn | Machine learning |
 | Isolation Forest | Anomaly detection |
-| Streamlit | Interactive web application |
 | Plotly | Data visualization |
 | SQLite | Optional investigation history |
 
